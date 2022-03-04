@@ -21,7 +21,21 @@
         padding: 0;
     }
 
-    h1, h2, h3, p, li {
+    body {
+        background: #121212;
+    }
+
+    h1, h2, h3, p, li, .link {
         font-family: 'Poppins', sans-serif;
+        color: #F8F0E3;
     }
 </style>
+
+<!-- 
+
+colors: 
+
+
+
+
+ -->

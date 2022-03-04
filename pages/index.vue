@@ -13,7 +13,6 @@ export default {
 <style> 
   .index-container {
     margin: 0 auto;
-    width: 800px;
     text-align: center;
     margin-top: 25px;
   }
