@@ -30,12 +30,3 @@
         color: #F8F0E3;
     }
 </style>
-
-<!-- 
-
-colors: 
-
-
-
-
- -->
