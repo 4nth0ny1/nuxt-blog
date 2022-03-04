@@ -1,6 +1,6 @@
 <template>
   <header class="header">
-      <h1>meh blog</h1>
+      <h1>mB</h1>
       <ul>
           <li><nuxt-link class="link" to="/">home</nuxt-link></li>
           <li><nuxt-link class="link" to="/about">about</nuxt-link></li>
@@ -19,6 +19,8 @@ export default {
     .header {
         display: flex;
         justify-content: space-between;
+        border-bottom: 1px solid black;
+        align-items: center;
     }
 
     .header ul {
@@ -26,7 +28,7 @@ export default {
         flex-direction: row;
     }
 
-    h1 {
+    .header h1 {
         margin: 10px;
     }
 
